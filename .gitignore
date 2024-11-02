@@ -1,0 +1,51 @@
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+.env
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore temporary files
+*.tmp
+*.swp
+# Ignore compiled Java class files
+*.class
+
+# Ignore JAR files
+*.jar
+
+# Ignore WAR files
+*.war
+
+# Ignore EAR files
+*.ear
+
+# Ignore Maven target directory
+target/
+
+# Ignore Gradle build directory
+build/
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore IntelliJ IDEA project files
+*.iml
+.idea/
+out/
